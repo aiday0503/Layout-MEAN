@@ -1,0 +1,22 @@
+.nav {
+    background-color: lightblue;
+    border: 1px solid black;
+    width: 280px;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+    height: 400px;
+    position: absolute;
+}
+
+button {
+    width: 200px;
+    display: block;
+    text-align: center;
+}
+
+#btn {
+    padding-top: 10px;
+    margin-top: 37px;
+    margin-left: 20px;
+}

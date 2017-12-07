@@ -1,0 +1,10 @@
+.main {
+    background-color: lightblue;
+    border: 1px solid black;
+    width: 637px;
+    margin: 5px;
+    padding: 6px;
+    display: inline-block;
+    height: 400px;
+    margin-left: 324px;
+}
